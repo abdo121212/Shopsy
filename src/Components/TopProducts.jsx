@@ -45,7 +45,10 @@ export const TopProducts = () => {
             <h2 data-aos="fade-up" className="text-6xl font-bold">
               Best Products
             </h2>
-            <p data-aos="zoom-in" className="text-gray-600 text-lg dark:text-white">
+            <p
+              data-aos="zoom-in"
+              className="text-gray-600 text-lg dark:text-white"
+            >
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga iure
               suscipit obcaecati molestias voluptatem!
             </p>
@@ -63,7 +66,7 @@ export const TopProducts = () => {
                 <img
                   className="max-w-[140px] group-hover:scale-125 duration-300 drop-shadow-lg transform -translate-y-16"
                   src={ele.img}
-                  alt=""
+                  alt={ele.auther}
                 />
                 <div className="-translate-y-10 flex justify-center items-center flex-col space-y-4  dark:text-white ">
                   <h4 className="font-bold text-2xl group-hover:text-white">

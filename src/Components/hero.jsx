@@ -87,7 +87,7 @@ export const Hero = () => {
                       data-aos-once="300"
                       src={ele.img}
                       className="max-lg:w-[450px] lg:w-[650px] object-contain"
-                      alt=""
+                      alt={ele.title}
                     />
                   </div>
                 </div>

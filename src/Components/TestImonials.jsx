@@ -93,7 +93,7 @@ export const TestImonials = () => {
               <div className="flex justify-items-center items-center flex-col gap-y-4">
                 <img
                   src={ele.img}
-                  alt=""
+                  alt={ele.name}
                   className="rounded-full h-[200px] w-[200px] object-fill"
                 />
 

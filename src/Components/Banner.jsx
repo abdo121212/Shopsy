@@ -41,7 +41,10 @@ export const Banner = () => {
             >
               <div className="flex justify-center items-center gap-7">
                 <div className="w-14 h-14 bg-[#ede9fe] flex justify-center items-center rounded-full">
-                  <MdHighQuality size={30} className=" dark:text-primary rounded-full" />
+                  <MdHighQuality
+                    size={30}
+                    className=" dark:text-primary rounded-full"
+                  />
                 </div>
                 <span className="font-medium text-xl capitalize ">
                   hight Quality
@@ -52,7 +55,7 @@ export const Banner = () => {
                 <div className="w-14 h-14 bg-[#ffedd5] flex justify-center items-center rounded-full">
                   <MdOutlineDeliveryDining
                     size={30}
-                 className="  dark:text-primary   rounded-full"
+                    className="  dark:text-primary   rounded-full"
                   />
                 </div>
                 <span className="font-medium text-xl capitalize ">
@@ -62,7 +65,10 @@ export const Banner = () => {
 
               <div className="flex justify-center items-center gap-7 ">
                 <div className="w-14 h-14 bg-[#dcfce7] flex justify-center items-center rounded-full">
-                  <SiContactlesspayment size={30} className=" dark:text-primary rounded-full" />
+                  <SiContactlesspayment
+                    size={30}
+                    className=" dark:text-primary rounded-full"
+                  />
                 </div>
                 <span className="font-medium text-xl capitalize ">
                   Easey Payment method
@@ -71,7 +77,10 @@ export const Banner = () => {
 
               <div className="flex justify-center items-center gap-7 ">
                 <div className="w-14 h-14 bg-[#fef9c3] flex justify-center items-center rounded-full">
-                  <MdOutlineLocalOffer size={30} className=" dark:text-primary rounded-full" />
+                  <MdOutlineLocalOffer
+                    size={30}
+                    className=" dark:text-primary rounded-full"
+                  />
                 </div>
                 <span className="font-medium text-xl capitalize ">
                   Get Offers

@@ -4,7 +4,6 @@ import { AiFillLinkedin } from "react-icons/ai";
 import { AiFillInstagram } from "react-icons/ai";
 import { CgFacebook } from "react-icons/cg";
 import React from "react";
-import img from "../assets/website/footer-pattern.jpg";
 import logo from "../assets/logo.png";
 
 export const Detalis = () => {
@@ -15,7 +14,7 @@ export const Detalis = () => {
           <div className="flex justify-between items-start gap-11 max-lg:flex-col  max-lg:justify-start max-lg:items-start max-lg:space-y-5q">
             <div className=" flex  flex-col space-y-4 ">
               <div className="flex  justify-start items-center space-x-3">
-                <img src={logo} alt="" className="w-[100px]" />
+                <img src={logo} alt="Logo" className="w-[100px]" />
                 <h3 className="font-bold text-2xl ">Shopsy</h3>
               </div>
 
