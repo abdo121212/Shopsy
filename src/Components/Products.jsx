@@ -52,7 +52,7 @@ export const Products = () => {
   return (
     <>
       <section className="dark:bg-gray-800 dark:text-white">
-        <div className="py-10 container mx-auto ">
+        <div className="py-10 container mx-auto px-10 ">
           <div>
             <div className="flex flex-col justify-center items-center gap-y-4 ">
               <h5

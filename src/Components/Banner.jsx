@@ -8,7 +8,7 @@ import women2 from "../assets/women/women2.jpg";
 export const Banner = () => {
   return (
     <section className="dark:bg-gray-800 dark:text-white">
-      <div className="pt-16 container mx-auto py-10">
+      <div className="pt-16 container mx-auto py-10 px-10">
         <div className="flex justify-center items-center gap-x-36 flex-row max-lg:space-y-16  max-lg:flex-col max-md:gap-y-14  max-sm:px-16">
           <img
             data-aos="zoom-in"

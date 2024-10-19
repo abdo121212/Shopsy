@@ -33,7 +33,7 @@ export const TopProducts = () => {
   ];
   return (
     <section className="dark:bg-gray-800 dark:text-white">
-      <div className="container mx-auto  py-10">
+      <div className="container mx-auto  py-10 px-10">
         <div>
           <div className="flex flex-col justify-center items-start gap-y-4 max-sm:px-10">
             <h5
