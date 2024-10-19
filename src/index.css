@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#image-footer {
+  background-image: url(/src//assets/website/footer-pattern.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
