@@ -3,7 +3,7 @@ import { SiContactlesspayment } from "react-icons/si";
 import { MdOutlineDeliveryDining } from "react-icons/md";
 import { MdHighQuality } from "react-icons/md";
 import React from "react";
-import img2 from "../assets/women/women2.jpg";
+import women2 from "../assets/women/women2.jpg";
 
 export const Banner = () => {
   return (
@@ -13,8 +13,8 @@ export const Banner = () => {
           <img
             data-aos="zoom-in"
             data-aos-delay="500"
-            src={img2}
-            alt="image"
+            src={women2}
+            alt="women2"
             className="drop-shadow-[-10px_10px_12px_rgba(0,0,1)]"
           />
 

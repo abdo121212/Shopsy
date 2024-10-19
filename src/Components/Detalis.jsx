@@ -29,7 +29,7 @@ export const Detalis = () => {
               <ul className="flex justify-start items-center  flex-col space-y-4">
                 <li>
                   <a
-                    href="#"
+                    href="/giga"
                     className="hover:text-primary duration-300 hover:ml-6 text-xl"
                   >
                     Home
@@ -38,7 +38,7 @@ export const Detalis = () => {
 
                 <li>
                   <a
-                    href="#"
+                    href="/giga"
                     className="hover:text-primary duration-300 hover:ml-6 text-xl"
                   >
                     About
@@ -47,7 +47,7 @@ export const Detalis = () => {
 
                 <li>
                   <a
-                    href="#"
+                    href="/giga"
                     className="hover:text-primary duration-300 hover:ml-6 text-xl"
                   >
                     Contact Us
@@ -56,7 +56,7 @@ export const Detalis = () => {
 
                 <li>
                   <a
-                    href="#"
+                    href="/giga"
                     className="hover:text-primary duration-300 hover:ml-6 text-xl"
                   >
                     Blog
@@ -71,7 +71,7 @@ export const Detalis = () => {
               <ul className="flex justify-start items-center  flex-col space-y-4">
                 <li>
                   <a
-                    href="#"
+                    href="/giga"
                     className="hover:text-primary duration-300 hover:ml-6 text-xl"
                   >
                     Home
@@ -80,7 +80,7 @@ export const Detalis = () => {
 
                 <li>
                   <a
-                    href="#"
+                    href="/giga"
                     className="hover:text-primary duration-300 hover:ml-6 text-xl"
                   >
                     About
@@ -89,7 +89,7 @@ export const Detalis = () => {
 
                 <li>
                   <a
-                    href="#"
+                    href="/giga"
                     className="hover:text-primary duration-300 hover:ml-6 text-xl"
                   >
                     Contact Us
@@ -98,7 +98,7 @@ export const Detalis = () => {
 
                 <li>
                   <a
-                    href="#"
+                    href="/giga"
                     className="hover:text-primary duration-300 hover:ml-6 text-xl"
                   >
                     Blog
