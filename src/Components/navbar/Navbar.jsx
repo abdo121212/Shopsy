@@ -5,7 +5,8 @@ import React from "react";
 import logo from "../../assets/logo.png";
 import { DarkMode } from "./DarkMode";
 
-export const Navbar = () => {
+export const 
+Navbar = () => {
   const menu = [
     {
       id: 1,

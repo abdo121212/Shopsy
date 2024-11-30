@@ -6,7 +6,7 @@ export const Notified = () => {
     <section className=" mx-auto  ">
       <img
         src={image}
-        alt=""
+        alt="orange-pattern"
         className="w-full h-[400px] object-cover absolute z-[-10]"
       />
 

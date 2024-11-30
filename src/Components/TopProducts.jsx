@@ -66,7 +66,7 @@ export const TopProducts = () => {
                 <img
                   className="max-w-[140px] group-hover:scale-125 duration-300 drop-shadow-lg transform -translate-y-16"
                   src={ele.img}
-                  alt={ele.auther}
+                  alt={ele.title}
                 />
                 <div className="-translate-y-10 flex justify-center items-center flex-col space-y-4  dark:text-white ">
                   <h4 className="font-bold text-2xl group-hover:text-white">

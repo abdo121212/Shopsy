@@ -49,6 +49,8 @@ export const Hero = () => {
         <div className="h-[700px] w-[700px] bg-primary/40 rounded-3xl absolute  right-0 -top-3/4 rotate-45 z-[-10] "></div>
         <div className="container mx-auto ">
           <Slider {...settings}>
+
+
             {images.map((ele) => (
               <div className="h-screen w-full flex justify-center items-center dark:text-white ">
                 <div className="flex justify-center items-center w-full h-screen max-md:flex-col  max-md:gap-6 gap-x-10 ">
@@ -86,8 +88,9 @@ export const Hero = () => {
                       data-aos="zoom-in"
                       data-aos-once="300"
                       src={ele.img}
-                      className="max-lg:w-[450px] lg:w-[650px] object-contain"
-                      alt={ele.title}
+                      className=" object-contain"
+                      alt={ele.id}
+                      width={600}
                     />
                   </div>
                 </div>

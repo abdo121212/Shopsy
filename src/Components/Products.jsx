@@ -82,7 +82,7 @@ export const Products = () => {
                   <img
                     className="h-[320px] w-[350px] object-cover rounded-lg"
                     src={product.img}
-                    alt={product.title}
+                    alt={product.id}
                   />
                   <h5 className="font-semibold ">{product.title}</h5>
                   <p>{product.auther}</p>

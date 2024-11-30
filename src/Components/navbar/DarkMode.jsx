@@ -18,6 +18,7 @@ export const DarkMode = () => {
     <>
       <div className="relative select-none  z-999 ">
         <img
+        
           onClick={() => {
             setTheme(theme === "light" ? "dark" : "light");
           }}
